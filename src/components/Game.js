@@ -19,7 +19,7 @@ export default class Game extends React.Component
         this.renderBoard = this.renderBoard.bind(this);
     }
 
-    // ... rest of the code remains the same ...
+   
     isCurrentBoard(idx)
     {
         if (this.state.winner)

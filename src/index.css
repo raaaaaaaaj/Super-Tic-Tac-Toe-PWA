@@ -67,3 +67,65 @@ ol, ul {
 .settings-label {
   margin-left: 20px;
 }
+
+/* Responsive styles */
+@media (max-width: 600px) {
+  body {
+    font-size: 12px;
+    margin: 10px;
+  }
+
+  .square {
+    font-size: 20px;
+    line-height: 30px;
+    height: 30px;
+    width: 30px;
+  }
+
+  .game-info {
+    margin-left: 10px;
+  }
+
+  .settings-label {
+    margin-left: 10px;
+  }
+}
+
+@media (max-width: 360px) {
+  body {
+    font-size: 10px;
+    margin: 5px;
+  }
+
+  .square {
+    font-size: 16px;
+    line-height: 24px;
+    height: 24px;
+    width: 24px;
+  }
+
+  .game-info {
+    margin-left: 5px;
+  }
+
+  .settings-label {
+    margin-left: 5px;
+  }
+}
+
+/* Center the board */
+.game-container {
+  display: flex;
+}
+
+input[type="submit"][value="New game"] {
+  margin-bottom: 20px;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh; /* This ensures the container takes up the full viewport height */
+}
