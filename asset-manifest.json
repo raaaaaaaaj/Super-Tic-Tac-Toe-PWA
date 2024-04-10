@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Super-Tic-Tac-Toe-PWA/static/css/main.91f0ebc8.css",
+    "main.js": "/Super-Tic-Tac-Toe-PWA/static/js/main.5fd1622a.js",
+    "static/js/453.ed3810f9.chunk.js": "/Super-Tic-Tac-Toe-PWA/static/js/453.ed3810f9.chunk.js",
+    "service-worker.js": "/Super-Tic-Tac-Toe-PWA/service-worker.js",
+    "index.html": "/Super-Tic-Tac-Toe-PWA/index.html",
+    "main.91f0ebc8.css.map": "/Super-Tic-Tac-Toe-PWA/static/css/main.91f0ebc8.css.map",
+    "main.5fd1622a.js.map": "/Super-Tic-Tac-Toe-PWA/static/js/main.5fd1622a.js.map",
+    "453.ed3810f9.chunk.js.map": "/Super-Tic-Tac-Toe-PWA/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f0ebc8.css",
+    "static/js/main.5fd1622a.js"
+  ]
+}
